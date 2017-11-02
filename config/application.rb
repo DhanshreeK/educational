@@ -14,5 +14,6 @@ module EducationalConsultant
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
+    config.secret_key = '7cf1c5a1352109dc92a4a27da9703a8e543068a33474a4ee8ae30d9efed1ae345338a8e5c9a1880b481b8c617fc8c04314a4ee89eed9f6f516e2bdbed6f1e41e'
   end
 end
